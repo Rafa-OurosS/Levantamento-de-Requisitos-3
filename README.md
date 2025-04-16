@@ -1,5 +1,8 @@
 # Levantamento-de-Requisitos-3
 
+# **:large_blue_diamond: Nome: Rafael Augusto Moreira dos Ouros :small_blue_diamond: RA: 2039975**
+
+
 ## :memo: Cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos
 
 ## :telephone_receiver: Descrição do Escopo: 
